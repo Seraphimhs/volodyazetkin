@@ -23,6 +23,8 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 
 # grep forward /etc/sysctl.conf
 net.ipv4.ip_forward = 1
+
+
  
  
 После правок необходимо перезапустить сеть. например /etc/init.d/networking restart
