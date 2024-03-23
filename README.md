@@ -28,6 +28,6 @@ yandex cloud открыть порты
 https://qna.habr.com/q/754037
 https://cloud.yandex.ru/ru/docs/security/domains/network
 
- 
+ как с токена облака сделать токен на сервисном аккаунте
  
 После правок необходимо перезапустить сеть. например /etc/init.d/networking restart
