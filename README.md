@@ -1,4 +1,4 @@
-# volodyazetkin
+h# volodyazetkin
 а теперь сюда)))
 https://seraphim.gitbook.io/volodyazetkin2024gitbook
 Включаем IP Forwarding в Linux
@@ -23,6 +23,8 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 
 # grep forward /etc/sysctl.conf
 net.ipv4.ip_forward = 1
+
+yandex cloud открыть порты 
 
 
  
