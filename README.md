@@ -25,7 +25,8 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 net.ipv4.ip_forward = 1
 
 yandex cloud открыть порты 
-
+https://qna.habr.com/q/754037
+https://cloud.yandex.ru/ru/docs/security/domains/network
 
  
  
